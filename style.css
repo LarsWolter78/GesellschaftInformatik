@@ -1,0 +1,93 @@
+
+body {
+    font-family: 'Lora', serif;
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    }
+
+.container {
+  width: 600px; /* Breite zwischen 800px und 1000px */
+  margin: 0 auto; /* Zentriert den Container horizontal */
+  padding: 20px; /* Optional: Innenabstand für bessere Lesbarkeit */
+  
+  background-color: whitesmoke; /* Weißer Hintergrund */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Leichter Schatten für Tiefe */
+  border-radius: 5px; /* Optional: Abgerundete Ecken */
+}
+
+    h1 {
+    font-family: 'Verdana', serif;
+    text-transform: uppercase;
+    background-color:#333;
+    padding: 10px;
+    color: whitesmoke;
+    line-height: 1.6;
+    
+    }
+
+    h2 {
+    font-family: 'Georgia', serif;
+    
+    color: #333;
+    line-height: 1.6;
+    
+    }
+
+    h3 {
+    font-family: 'Georgia', serif;
+    
+    color: #333;
+    line-height: 1.6;
+    
+    }
+
+    p {
+    font-family: 'Georgia', serif;
+    
+    color: #333;
+    line-height: 1.6;
+    
+    }
+
+
+    a {
+    font-family: 'Georgia', serif;
+      
+    line-height: 1.6;
+    
+    }
+    li {
+    font-family: 'Georgia', serif;
+    
+    color: #333;
+    line-height: 1.6;
+    
+    }
+
+
+    table {
+    font-family: 'Lora', serif;
+    background-color: white;
+    
+    color: #333;
+    line-height: 1.6;
+    
+    }
+
+    img
+    {
+    width:600px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);  
+    border-radius: 10px;
+    display: block;
+ }
+
+    .menu {  font-family: 'Verdana', serif;
+font-size: 12px;
+}
+
+
+   
